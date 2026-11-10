@@ -1,3 +1,8 @@
 joblib
 sklearn 
 fastapi
+pydantic
+pandas 
+numpy
+seaborn
+matplotlib
